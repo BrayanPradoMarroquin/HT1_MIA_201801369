@@ -21,6 +21,7 @@ struct Estudiante
 };
 
 int main() {
-    cout<<"Bienvenido"<<endl;
+    cout<<"Bienvenido como estas"<<endl;
+
     return 0;
 }
